@@ -11,7 +11,7 @@ const NavbarLinks = [
 const Header = () => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
-  return (
+ return (
     <>
       <div className="w-[80%] mx-auto h-25 flex justify-between py-2 px-4 items-center">
         {/* Logo */}
